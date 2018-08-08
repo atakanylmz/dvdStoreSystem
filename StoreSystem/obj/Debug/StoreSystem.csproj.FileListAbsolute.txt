@@ -1,0 +1,17 @@
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe.config
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\bin\Debug\StoreSystem.pdb
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.exe
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.pdb
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.Admin.resources
+C:\Users\Serap\Desktop\nesne\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.User.resources
+C:\Users\Serap\Desktop\vs\proje\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe.config
+C:\Users\Serap\Desktop\vs\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.exe
+C:\Users\Serap\Desktop\vs\proje\StoreSystem\StoreSystem\obj\Debug\StoreSystem.pdb
+C:\Users\Serap\Desktop\Git için\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe.config
+C:\Users\Serap\Desktop\Git için\StoreSystem\StoreSystem\obj\Debug\StoreSystem.exe
+C:\Users\Serap\Desktop\Git için\StoreSystem\StoreSystem\obj\Debug\StoreSystem.pdb
